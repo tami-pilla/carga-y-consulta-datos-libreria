@@ -2,9 +2,10 @@
 
 ## Descripción
 
-Este proyecto se muestran los scripts utilizados para poblar la base de datos y desarrollar consultas SQL orientadas al análisis comercial de una librería.
+En este proyecto se muestran las consultas SQL utilizadas para poblar la base de datos y para el análisis comercial de una librería.
 
-Primero se generó un conjunto de datos simulados utilizando valores aleatorios para representar las operaciones de una librería. Luego, esos datos fueron consolidados en scripts con inserts con valores fijos para obtener un conjunto de datos consistente para el desarrollo de consultas SQL de análisis.
+Primero se generó un conjunto de datos simulados utilizando valores aleatorios para representar las operaciones de una librería.
+Luego, esos datos fueron consolidados con INSERTS con valores fijos para obtener un conjunto de datos consistente para el análisis.
 
 ## Contenido del repositorio
 
