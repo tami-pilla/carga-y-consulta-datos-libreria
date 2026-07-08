@@ -11,11 +11,11 @@ A partir de esta base se desarrollaron consultas SQL para analizar indicadores r
 
 ## Contenido del repositorio
 
-- **datos_aleatorios.sql**: generación inicial de datos simulados.
+- **datos_aleatorios.sql**: generación de datos aleatorios.
 - **datos_consolidados.sql**: carga del conjunto de datos definitivo.
 - **consultas.sql**: consultas SQL para el análisis de ventas, clientes, productos y stock.
 
-## Tecnologías
+## Herramientas
 
 - PostgreSQL
 - SQL
